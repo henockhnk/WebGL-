@@ -16,7 +16,6 @@ creative and experimental way.
 Feel free to visit my channels to see more tutorials like this:
 ##Youtube Channel
 https://youtu.be/dX6DpkWcv7c
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dX6DpkWcv7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##Tiktok
 https://www.tiktok.com/@henockhnk?is_from_webapp=1&sender_device=pc
