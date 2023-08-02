@@ -13,8 +13,12 @@ and dropdown menus to make your code more efficient and modular. This
 textbook is suitable for anyone who wants to learn how to use WebGL in a 
 creative and experimental way.
 
-WebGL is a JavaScript API that allows you to create 2D and 3D 
-graphics on the web. WebGL is a powerful and versatile technology that 
-can be used for various purposes, such as games, simulations, 
-visualizations, art, and education. In the following section, we will provide 
-an overview of this textbook's content.
+Feel free to visit my channels to see more tutorials like this:
+##Youtube Channel
+https://youtu.be/dX6DpkWcv7c
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dX6DpkWcv7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+##Tiktok
+https://www.tiktok.com/@henockhnk?is_from_webapp=1&sender_device=pc
+
+
