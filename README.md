@@ -14,7 +14,8 @@ textbook is suitable for anyone who wants to learn how to use WebGL in a
 creative and experimental way.
 
 Feel free to visit my channels to see more tutorials like this:
-##Youtube Channel
+##Youtube Channel:
+https://youtu.be/I3_uaSiP_Co
 https://youtu.be/dX6DpkWcv7c
 
 ##Tiktok
